@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to event listeners in HTML.  The `bug.html` file showcases the incorrect implementation, while `bugSolution.html` provides the correct approach.  The issue highlights a less common mistake that can cause unexpected behavior in event handling.
